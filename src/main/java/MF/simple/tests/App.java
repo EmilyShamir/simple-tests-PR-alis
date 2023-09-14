@@ -1,7 +1,7 @@
 package MF.simple.tests;
 
 /**
- * Hello world!
+ * Hello world! Emily
  *
  */
 public class App 
